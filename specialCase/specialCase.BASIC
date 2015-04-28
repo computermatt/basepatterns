@@ -1,0 +1,6 @@
+10 input "Enter age";X
+20 if x < 0 goto 40
+30 goto 50
+40 print "Enter a non negative age!"
+41 end
+50 print "You're old!"
