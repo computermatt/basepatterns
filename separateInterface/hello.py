@@ -1,3 +1,3 @@
-import separate
+from radmodule import whoa
 
-print separate.oh().hello()
+print whoa.whoa()
